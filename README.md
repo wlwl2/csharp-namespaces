@@ -21,6 +21,10 @@ https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-name
 
 https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
+### Core Namespaces
+
+
+
 ## Unity Documentation
 
 https://docs.unity3d.com/Manual/cus-naming.html
