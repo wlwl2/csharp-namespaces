@@ -19,6 +19,8 @@ https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-name
 
 > Assemblies take the form of executable (.exe) or dynamic link library (.dll) files, and are the building blocks of .NET applications.
 
+https://docs.microsoft.com/en-us/dotnet/standard/assembly/
+
 ## Unity Documentation
 
 https://docs.unity3d.com/Manual/cus-naming.html
