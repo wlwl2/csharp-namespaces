@@ -34,6 +34,8 @@ Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names
 
 > DO NOT give types names that would conflict with any type in the Core namespaces.
 
+> For example, never use Stream as a type name. It would conflict with System.IO.Stream, a very commonly used type.
+
 Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 
 ### Subnamespaces
