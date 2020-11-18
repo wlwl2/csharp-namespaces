@@ -1,5 +1,8 @@
 # csharp-namespaces
-Namespaces in C#.
+
+Namespaces and Assemblies in C#.
+
+You should read https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces first.
 
 ## Important
 
@@ -22,6 +25,10 @@ https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-name
 https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
 ### Core Namespaces
+
+>Core namespaces include all System namespaces, excluding namespaces of the application models and the Infrastructure namespaces. Core namespaces include, among others, System, System.IO, System.Xml, and System.Net.
+
+> DO NOT give types names that would conflict with any type in the Core namespaces.
 
 
 
