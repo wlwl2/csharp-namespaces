@@ -36,6 +36,18 @@ Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names
 
 Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 
+### Subnamespaces
+
+Examples include:
+
+`Microsoft.VisualC.StlClr.Generic`
+
+`System.Activities.Core.Presentation.Factories`
+
+`System.Activities.Presentation.Annotations`
+
+`System.Activities.Presentation.Converters`
+
 ## Assemblies
 
 > The assembly is the smallest versionable unit in the common language runtime.
