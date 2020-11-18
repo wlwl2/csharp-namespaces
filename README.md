@@ -6,7 +6,7 @@ Namespaces and Assemblies in C#.
 
 You should read https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces **first**.
 
-## Important
+### Important
 
 The following template specifies the general rule for naming namespaces:
 
