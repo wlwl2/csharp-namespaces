@@ -30,7 +30,7 @@ https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
 > DO NOT give types names that would conflict with any type in the Core namespaces.
 
-
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 
 ## Unity Documentation
 
