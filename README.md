@@ -48,6 +48,8 @@ Examples include:
 
 `System.Activities.Presentation.Converters`
 
+`System.Activities.Presentation.Debug`
+
 ## Assemblies
 
 > The assembly is the smallest versionable unit in the common language runtime.
