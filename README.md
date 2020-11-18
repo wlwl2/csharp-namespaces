@@ -50,6 +50,8 @@ Examples include:
 
 `System.Activities.Presentation.Debug`
 
+Source: https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.8
+
 ## Assemblies
 
 > The assembly is the smallest versionable unit in the common language runtime.
