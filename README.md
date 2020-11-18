@@ -24,13 +24,13 @@ The following are examples:
 
 > For example, use System.Collections instead of System.Collection. Brand names and acronyms are exceptions to this rule, however. For example, use System.IO instead of System.IOs.
 
-https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
+Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 
 > The assembly is the smallest versionable unit in the common language runtime.
 
 > Assemblies take the form of executable (.exe) or dynamic link library (.dll) files, and are the building blocks of .NET applications.
 
-https://docs.microsoft.com/en-us/dotnet/standard/assembly/
+Source: https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
 ### Core Namespaces
 
@@ -38,7 +38,7 @@ https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
 > DO NOT give types names that would conflict with any type in the Core namespaces.
 
-https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
+Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 
 ## Unity Documentation
 
