@@ -14,7 +14,15 @@ The following are examples:
 
 `Fabrikam.Math` `Litware.Security`
 
+### Product/Technology Name
+
 > DO use a stable, version-independent product name at the second level of a namespace name.
+
+### Plural Namespace Names
+
+> CONSIDER using plural namespace names where appropriate.
+
+> For example, use System.Collections instead of System.Collection. Brand names and acronyms are exceptions to this rule, however. For example, use System.IO instead of System.IOs.
 
 https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 
