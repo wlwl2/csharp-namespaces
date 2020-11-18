@@ -68,6 +68,16 @@ https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-asse
 
 ## Naming .asmdef files
 
+> `UnityEditor.TestRunner`
+
+> `UnityEngine.TestRunner`
+
+Source: https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html#reference-another-assembly
+
+> `Newtonsoft.Json.dll`
+
+Source: https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html#reference-precompiled-assembly
+
 > In this example, the selected script is compiled into the library file, Unity.Timeline.Editor.dll, which is defined by the Unity.Timeline.Editor Assembly Definition asset.
 
 Source: https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html#defining-assemblies
