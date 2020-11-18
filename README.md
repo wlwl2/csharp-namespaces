@@ -66,6 +66,12 @@ Source: https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
 https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-assemblies-and-dlls
 
+## Naming .asmdef files
+
+> In this example, the selected script is compiled into the library file, Unity.Timeline.Editor.dll, which is defined by the Unity.Timeline.Editor Assembly Definition asset.
+
+Source: https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html#defining-assemblies
+
 ## Links
 
 Links for docs on Namespaces or Assemblies in C#.
