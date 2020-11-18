@@ -44,6 +44,10 @@ Source: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names
 
 Source: https://docs.microsoft.com/en-us/dotnet/standard/assembly/
 
+## Naming Assemblies
+
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-assemblies-and-dlls
+
 ## Links
 
 Links for docs on Namespaces or Assemblies in C#.
