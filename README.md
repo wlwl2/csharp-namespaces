@@ -2,7 +2,9 @@
 
 Namespaces and Assemblies in C#.
 
-You should read https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces **first** for naming namespaces.
+## Naming Namespaces or Assemblies
+
+You should read https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces **first**.
 
 ## Important
 
